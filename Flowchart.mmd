@@ -1,0 +1,15 @@
+---
+id: b57c1531-8ea8-420c-a77c-3c358b6e176a
+---
+flowchart TB
+     A["التعافي"] --> B["العمل"] & D@{ label: "<span style=\"padding-left:\">العلم</span>" }
+    D --> n1["الادمان"] & n2["الدين"]
+    B --> n3["وقائي"] & n4["رد فعلي"]
+    n3 --> n5["<span>إعادة </span><span>تصميم </span><span>البيئة</span>"]
+    n5 --> n6["البيئة الرقمية"]
+    n7["!"]
+
+    n7@{ shape: extract}
+    style n5 fill:#ffffff,color:#000000
+    style n6 stroke:#D50000
+    style n7 fill:#FFD600
