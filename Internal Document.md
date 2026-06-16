@@ -4,11 +4,9 @@
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;"><p><strong>Addiction Recovery</strong></p>
-<p><strong>Framework</strong></p>
-<p><em>A Structured System for Behavior Change</em></p>
-<p><em>Built from first principles — Environment · Knowledge · Action · Response</em></p>
-<p>Working Document · 2025</p></td>
+<td style="text-align: left;"><p><strong>Muslims Against pornography</strong></p>
+<p><strong>Internal Team Document</strong></p>
+<p><em>A Structured System for Behavior Change</em></td>
 </tr>
 </tbody>
 </table>
@@ -129,4 +127,10 @@ Before our intervention, the grid must determine where the person actually is. T
 | ---------------------------------------------------------------------------------- |
 
 
-**How to Navigate the Grid:** We are not trying to help everyone, we can only help those who want to help themselves. `Quadrant B` is our main target group. This who are trying to stop but can't. As a rule `Action` is preferred over `Knowledge`. High `Action` says that you are atleast trying. `Quadrant A` Rank 2 as priority, it is assumed that when they understand the problem they might start taking action. `Quadrant C` is  to be avoided. They are usually time wasters/attention seekers. Somone who knows what to do but comes up with excuses or simply don't want to make any sacrifice. Once you identify a person identiy as `Quadrant C` you give a strong warning by reminding him of ALlah's punishment and leave it as the last try.
+**How to Navigate the Grid:** We are not trying to help everyone, we can only help those who want to help themselves.
+
+1.  `Quadrant B` is our main target group. This who are trying to stop but can't or don't know how. As a rule `Action` is preferred over `Knowledge`. High `Action` says that you are atleast trying.
+
+2. `Quadrant A` Rank 2 as priority, it is assumed that when they understand the problem they might start taking action. Though since they are not trying to stop, they are not actively looking around for solutions. i.e. they are not to be found on subreddits 
+
+3. `Quadrant C` is  to be avoided. They are usually time wasters/attention seekers. Somone who knows what to do but comes up with excuses or simply don't want to make any sacrifice. They will seem that they need help but once you give them the hard solution you will see excuses floatig around. Once you identify a person identiy as `Quadrant C` it is better to not waste your time with him. As a last filter you give a strong warning by reminding him of Allah's punishment and and that you provided them a solution. They will be asked about this incident. 
