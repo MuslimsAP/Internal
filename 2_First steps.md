@@ -6,7 +6,7 @@
 <tr>
 <td style="text-align: left;"><p><strong>Muslims Against pornography</strong></p>
 <p><strong>First Steps and Methodology</strong></p>
-<p><em>This text is 100% Human written</em></td>
+<p></td>
 </tr>
 </tbody>
 </table>

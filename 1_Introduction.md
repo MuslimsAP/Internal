@@ -5,8 +5,8 @@
 <tbody>
 <tr>
 <td style="text-align: left;"><p><strong>Muslims Against pornography</strong></p>
-<p><strong>Internal Team Document</strong></p>
-<p><em>A Structured System for Behavior Change</em></td>
+<p><strong>Introduction</strong></p>
+<p></td>
 </tr>
 </tbody>
 </table>
@@ -76,9 +76,9 @@ As simple and as focused as possible. There is an extremely available content ou
 
 This is called **The killer of the 100 Principle.**
 
-The killer of 100 in `The Hadth` when he went to ask the scholar whether his repentence is to be accepted, the first answer thing the scholar asked him to do is: `to leave his land and never comeback`. The first was a sacrifice of his comfortable enviroment. A change the he needed to make. An action. A complete Redesign of his surroundings. He asked him to join a people in a good land that worship Allah. He asked him to go look for a system that helps him and ditch his old enviroment that made hime the way he is now.
+The killer of 100 in `The Hadith` when he went to ask the scholar whether his repentence is to be accepted, the first answer thing the scholar asked him to do is: `to leave his land and never comeback`. The first thing was a sacrifice of his comfortable enviroment. A change the he needed to make. An action. A complete Redesign of his surroundings. He asked him to join a people in a good land that worship Allah. He asked him to go look for a system that forces him to change himself. He asked him to `Change the environment`
 
-A system that elimnates **all** content access. It is like putting yourself in a desert, there is no way that you will get content here which leads to not relapsing to content. A `Change in an environment` that would contribute to an actial change.
+To be in system that elimnates **all** content access. It is like putting yourself in a desert, there is no way that you will get content here which prevents relapsing by force. A `Change in an environment` that would contribute to an actual change in you.
 
 
 |         |                                                   |
@@ -88,11 +88,33 @@ A system that elimnates **all** content access. It is like putting yourself in a
 
 ```mermaid
 graph TD;
+   A["Recovery"] 
+    B["Changing the Environment"] 
+    C["Knowledge: Revelation & Addiction"] 
+    D["Action & Reaction"] 
     A-->B;
     A-->C;
-    B-->D;
-    C-->D;
+    A-->D;
 ```
+|         |                                                   |
+|:-------:|---------------------------------------------------|
+
+The 3 Axes is everything you need for your recovery system. If you want me to be honest the axes looks something like this in reality.  
+
+```mermaid
+graph TD;
+   A["Recovery"] 
+    B["Change the Environment"] 
+    C["Knowledge: Revelation & Addiction"] 
+    D["Action & Reaction"] 
+    A-->C;
+    A-->D;
+    C-->B;
+    D-->B;
+    
+```
+With Knowledge and Action Being the main Axes. At the changing the environemnt needs knowledge of what to change and action of what to do. But `Changing the Environment` was brought up to highlight its weight and importance in the recovery journey. 
+
 
 
 |         |                                                   |
