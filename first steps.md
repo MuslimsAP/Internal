@@ -32,7 +32,7 @@ He replied in the negative and the man killed him also completing one hundred. H
 |       |                  |
 |:-----:|------------------| 
 
-The above hadith is taken by the scholars as the foundations of which the tawbah is built on. There are actually a ton of lessons that can be drawn and many applications that canbe taken. However to remain focus on the most important lesson, we will focus on only 2. 
+The above mentioned hadith is taken by the scholars as the foundations of which the tawbah is built on. There are actually a ton of lessons that can be drawn and many applications that canbe taken. However to remain focus on the most important lesson, we will focus on only 2. 
 
 1. `He came to him` and `asked him if there was any chance for his repentance`. THe murderer of 100 souls `wanted` to repent to Allah. He tried. He asked around several times until he was directed to monk then a scholr. this part resembles `Quadrant B`. People who are doing effort to get the knowledge of how to stop what they are doing. 
 
@@ -40,7 +40,12 @@ The above hadith is taken by the scholars as the foundations of which the tawbah
 
     The scholar asked him to change his enviroment. To move to a better place as his land `is an evil place`. A huge `Sacrifice`. 
 
-The example of a the man is the example of us. His land is everything in our enviroment that is working against our recovery. Including first and foremost your `digital space` i.e. your `Smartphone`. A devide that started your addiction and a device that will keep you in its loop. 
+
+The example of a the man is the example of us. His land is everything in our enviroment that is working against our recovery. Including first and foremost your `digital space` i.e. your `Smartphone` ( & `Laptop`) . A device that started your addiction and a device that will keep you in its loop. 
+
+The Scholar did not ask him to revisit his childhood trauma, nor to discover his inner fears and pains. He did not ask him to have a recovery program that includes journaling his thoughts on a daily basis, or to keep a streak of his kil-free days. The scholar saw a problem rooted deep in him, and suggested a solutoin that would solution strong enough to meet the depth of such a problem. The scholar suggested a `Change in the Environemnt.`
+
+
 
 # II  Reddit-Dawah
 

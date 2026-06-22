@@ -68,19 +68,36 @@ Beyond direct triggers, the broader sexual saturation of media plays an underrat
 
 # III  The Solution
 
-
 Imagine a small shopping center that was struggling with frequent shoplifting. Store owners were frustrated and initially believed the only solution was to catch and punish more offenders. However, a crime prevention consultant suggested a different approach. Instead of focusing on the thieves themselves, the consultant examined the environment in which the thefts were occurring. Expensive items were moved closer to cash registers, security cameras were installed, mirrors were placed in blind spots, and clear signs warned customers that the premises were under surveillance. Within a few months, shoplifting incidents declined sharply.
 
  The change did not occur because potential offenders suddenly became more law-abiding; rather, stealing had become more difficult, riskier, and less rewarding. This example captures the central idea of **Situational Crime Prevention** (Clarke, 1980): crime can be prevented by reducing opportunities and altering environmental conditions that make offending attractive or easy. Rather than seeking to change the person, the approach focuses on modifying situations so that person's behavior becomes a less desirable choice.
 
-As simple and as focused as possible. There is an extremely available content out there. You relapse because of the content. We eliminate the content availability. You have no content to relapse. You recover with **The Zero Access Principle.**
+As simple and as focused as possible. There is an extremely available content out there. You relapse because of the content. We eliminate the content availability. You have no content to relapse. You start your recovery process.
 
-A strict system based on that principle that elimnates **all** content access. It is like putting yourself in a desert, there is no way that you will get content here which leads to not relapsing to content. 
+This is called **The killer of the 100 Principle.**
+
+The killer of 100 in `The Hadth` when he went to ask the scholar whether his repentence is to be accepted, the first answer thing the scholar asked him to do is: `to leave his land and never comeback`. The first was a sacrifice of his comfortable enviroment. A change the he needed to make. An action. A complete Redesign of his surroundings. He asked him to join a people in a good land that worship Allah. He asked him to go look for a system that helps him and ditch his old enviroment that made hime the way he is now.
+
+A system that elimnates **all** content access. It is like putting yourself in a desert, there is no way that you will get content here which leads to not relapsing to content. A `Change in an environment` that would contribute to an actial change.
 
 
 |         |                                                   |
 |:-------:|---------------------------------------------------|
-# IV  The Diagnostic Grid. 
+# IV  The 3 Recovery Axes. 
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
+|         |                                                   |
+|:-------:|---------------------------------------------------|
+# V  The Diagnostic Grid. 
 Before our intervention, the grid must determine where the person actually is. The Knowledge--Action matrix provides a fast, reliable diagnostic. 
 
 
